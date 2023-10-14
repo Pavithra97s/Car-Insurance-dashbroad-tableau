@@ -27,3 +27,6 @@ Understanding the needs and expectations of the CEO was paramount. I tailored th
 The project underscored the transformative role of data visualization in policy formulation. By distilling complex data into digestible visual formats, I facilitated data-driven decision-making. The CEO was presented with high-level insights that could potentially shape the company’s policies, emphasizing the practical application of data in real-world scenarios.
 
 In essence, the "Visualizing Insurance Claims using Tableau" project was a hands-on learning journey, emphasizing the fusion of technical prowess, analytical acumen, and effective communication. It underscored the pivotal role of data visualization not just as a tool for representation but as a catalyst for informed decision-making, empowering organizations to navigate the complexities of their industries with confidence and clarity.
+
+
+Please find the dashboard link: https://public.tableau.com/app/profile/pavithra.sundaram/viz/CarInsuranceclaim-Dashboard/CarInsuranceclaims-Storyboard
